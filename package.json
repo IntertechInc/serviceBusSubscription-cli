@@ -1,0 +1,16 @@
+{
+  "name": "serviceBusSubscription-cli",
+  "version": "1.0.0",
+  "description": "Creates Azure Servicebus Subscriptions with or without a filter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jim Karg",
+  "license": "MIT",
+  "dependencies": {
+    "azure": "^0.10.5",
+    "command-line-args": "^0.5.9"
+  }
+}
