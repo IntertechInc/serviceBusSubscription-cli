@@ -17,5 +17,5 @@ $ node index.js -h
 To package into a native executable you must install [jxcore](http://jxcore.com/home/) and then run:
 
 ```
-$ jx package index.js "createSubscription" -native -slim .git,node_modules
+$ jx package index.js "createSubscription" -native -slim .git
 ```
